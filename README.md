@@ -61,7 +61,7 @@ cat /proc/meminfo | grep 'Inact' (количествоа неактивной п
 
 ![image](https://user-images.githubusercontent.com/92544990/167257541-f8a880aa-2325-49e3-a788-aaef43eab276.png)
 
-![tempsnip](https://user-images.githubusercontent.com/92544990/167257852-a7ba3f8b-cc8f-4fa1-9361-0af392b2f369.png)
+![Рисунок1](https://user-images.githubusercontent.com/92544990/167258036-aaccdf7c-9046-4274-8d91-b99c3c5bbca0.png)
 
 ---
 # Задание 8
