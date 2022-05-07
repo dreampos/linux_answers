@@ -59,9 +59,10 @@ cat /proc/meminfo | grep 'Inact' (количествоа неактивной п
 ---
 ## Ответ:
 
-![image](https://user-images.githubusercontent.com/92544990/167257541-f8a880aa-2325-49e3-a788-aaef43eab276.png)
+![Рисунок3](https://user-images.githubusercontent.com/92544990/167259108-56c3859e-42ae-4375-9b03-70563d527dad.png)
 
-![Рисунок1](https://user-images.githubusercontent.com/92544990/167258036-aaccdf7c-9046-4274-8d91-b99c3c5bbca0.png)
+![Рисунок2](https://user-images.githubusercontent.com/92544990/167259114-0f9db9ef-46b5-4978-9bfb-0de995a9e4a0.png)
+
 
 ---
 # Задание 8
