@@ -13,14 +13,17 @@ RPM дистрибутивы - Fedora, CentOS
 ---
 ## Задание 2
 ---
-Ответ:
+# Ответ:
 ---
 ## Задание 5
 ---
-Ответ:  
-arch (архитектура ПК)
-cat /proc/cpuinfo | grep 'model name' (модель прцессора)
-cat /proc/meminfo | grep 'Inact' (количествоа неактивной памяти)
+# Ответ:  
 
+arch (архитектура ПК)
+
+cat /proc/cpuinfo | grep 'model name' (модель прцессора)
+
+cat /proc/meminfo | grep 'Inact' (количествоа неактивной памяти)
+---
 
 
